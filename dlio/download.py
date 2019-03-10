@@ -6,8 +6,6 @@ import os
 
 lststr = open('list.txt', 'r')
 
-trus = ""
-
 lst = lststr.readlines()
 
 dldir = "./images/"
